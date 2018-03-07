@@ -69,7 +69,7 @@ mysql_connect('localhost','root','');
                             <li><a class="navactive color_animation" href="#top">WELCOME</a></li>
                             <li><a class="color_animation" href="#story">ABOUT</a></li>
                             <li><a class="color_animation" href="#pricing">PRICING</a></li>
-                            <li><a class="color_animation" href="#contact">CONTACT</a></li>
+                            <li><a class="color_animation" href="#contact">CONTACTTTTTTTTTTTTTTT</a></li>
 							<li><a class="color_animation" href="adminlogin.php">ADMIN LOGIN</a></li>
 							<li><a class="color_animation" href="studentlogin.php">STUDENT LOGIN</a></li>
 							<li><a class="color_animation" href="managerlogin.php">MANAGER LOGIN</a></li>
